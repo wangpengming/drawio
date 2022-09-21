@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-21T06:41:42.400Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tChyZte1OCoTT9KW1QzV" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-21T06:58:38.410Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="8W5-_HYcfXOT4hmcVlZe" version="20.3.0" type="github" pages="2">
   <diagram id="GOge8KaE7draZ93yZW2G" name="第 1 页">
     <mxGraphModel dx="2426" dy="924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -173,12 +173,6 @@
         </mxCell>
         <mxCell id="2iRC5-7iKpfMeXqLxetu-38" value="Amazon SQS" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="997.75" y="776" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="2iRC5-7iKpfMeXqLxetu-39" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_AD_Identity_Protection.svg;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1000" y="400" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="2iRC5-7iKpfMeXqLxetu-41" value="Amazon AD Identity Protection" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="997.75" y="480" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2iRC5-7iKpfMeXqLxetu-43" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.documents;" vertex="1" parent="1">
           <mxGeometry y="440" width="64" height="78" as="geometry" />
