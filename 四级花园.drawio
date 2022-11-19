@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T11:02:01.878Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0eqdnboZqjEvQUNW1AL2" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-19T11:08:21.676Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="aaAeVEI8fItrCisWDvNG" version="20.5.3" type="github" pages="3">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="1831" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -424,7 +424,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="主卧+客厅" id="Kw9x8k0pmd6y7ms5xQFu">
-    <mxGraphModel dx="1527" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2523" dy="2041" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ykRewvr_7Si41wkY-nE_-0" />
         <mxCell id="ykRewvr_7Si41wkY-nE_-1" parent="ykRewvr_7Si41wkY-nE_-0" />
@@ -438,25 +438,19 @@
           <mxGeometry x="370" y="480" width="50" height="70" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="-68" y="120" width="120" height="10" as="geometry" />
+          <mxGeometry x="-42" y="120" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="-68" y="540" width="120" height="10" as="geometry" />
+          <mxGeometry x="-42" y="540" width="120" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="ykRewvr_7Si41wkY-nE_-1" source="ykRewvr_7Si41wkY-nE_-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-58" y="180" as="sourcePoint" />
-            <mxPoint x="-8" y="130" as="targetPoint" />
+            <mxPoint x="-32" y="180" as="sourcePoint" />
+            <mxPoint x="18" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-8" value="5326mm" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="-45" y="280" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ykRewvr_7Si41wkY-nE_-13" value="900" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="359" y="39" width="30" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="ykRewvr_7Si41wkY-nE_-14" value="100" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="397" y="39" width="30" height="20" as="geometry" />
+          <mxGeometry x="-19" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-15" value="2200" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="220" y="100" width="30" height="20" as="geometry" />
@@ -507,37 +501,37 @@
           <mxGeometry x="130" y="280" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="72" y="120" width="20" height="10" as="geometry" />
+          <mxGeometry x="98" y="120" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="72" y="280" width="22" height="10" as="geometry" />
+          <mxGeometry x="98" y="280" width="22" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-32" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="ykRewvr_7Si41wkY-nE_-1" source="ykRewvr_7Si41wkY-nE_-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="34" y="180" as="sourcePoint" />
-            <mxPoint x="84" y="130" as="targetPoint" />
+            <mxPoint x="60" y="180" as="sourcePoint" />
+            <mxPoint x="110" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-33" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="34" y="190" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-34" value="侧面带抽屉的床即可" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="160" y="120" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="72" y="290" width="20" height="10" as="geometry" />
+          <mxGeometry x="98" y="290" width="20" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="72" y="540" width="22" height="10" as="geometry" />
+          <mxGeometry x="98" y="540" width="22" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-37" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="ykRewvr_7Si41wkY-nE_-1" source="ykRewvr_7Si41wkY-nE_-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="34" y="350" as="sourcePoint" />
-            <mxPoint x="84" y="300" as="targetPoint" />
+            <mxPoint x="60" y="350" as="sourcePoint" />
+            <mxPoint x="110" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-38" value="3300" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="34" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="60" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-39" value="箱体床，侧面大抽屉" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="249" y="300" width="161" height="120" as="geometry" />
@@ -633,7 +627,7 @@
           <mxGeometry x="145.00000000000003" y="140" width="45" height="10" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-72" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;小卧室空调打眼但不安装？&lt;br&gt;要装就一起。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=8;rotation=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="-60" y="24" width="100" height="90" as="geometry" />
+          <mxGeometry x="-34" y="24" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=6;fillColor=#666666;fillStyle=auto;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="420" y="480" width="60" height="70" as="geometry" />
@@ -657,7 +651,7 @@
           <mxGeometry x="620" y="-130" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ykRewvr_7Si41wkY-nE_-67" value="30杂物柜子" style="rounded=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;horizontal=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="400" y="60" width="20" height="60" as="geometry" />
+          <mxGeometry x="400" y="40" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-7" value="背景墙" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="420" y="180" width="10" height="240" as="geometry" />
@@ -746,8 +740,8 @@
         <mxCell id="luioHgQOrMevPf8hIm0l-37" value="可活动柜子，防晒" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#f5f5f5;gradientDirection=radial;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="479" y="480" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="luioHgQOrMevPf8hIm0l-40" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 1px; text-align: left;&quot;&gt;提前考虑开窗对晾衣架和纱帘的影响。这样柜子和窗户之前要把窗帘盒预留好，就不要沙发旁边预留窗帘盒了，因为有隐形门和空调，还有暖气影响。&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=12;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="760" y="440" width="60" height="30" as="geometry" />
+        <mxCell id="luioHgQOrMevPf8hIm0l-40" value="提前考虑开窗对晾衣架和纱帘的影响。这样柜子和窗户之前要把窗帘盒预留好，就不要沙发旁边预留窗帘盒了，因为有隐形门和空调，还有暖气影响。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;horizontal=1;whiteSpace=wrap;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="760" y="440" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-41" value="窗帘盒" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#808080;gradientDirection=radial;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="480" y="540" width="240" height="10" as="geometry" />
@@ -772,6 +766,27 @@
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-44" value="原有门" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;rotation=90;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="369" y="99" width="10" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-45" value="背景墙" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;rotation=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="329" y="-10" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=none;gradientDirection=radial;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="274" y="-60" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="100" y="-80" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-48" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="99" y="109" width="22" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-49" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=1 1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="ykRewvr_7Si41wkY-nE_-1" source="luioHgQOrMevPf8hIm0l-48" target="luioHgQOrMevPf8hIm0l-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="61" y="9" as="sourcePoint" />
+            <mxPoint x="111" y="-41" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-50" value="2459" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="61" y="19" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
