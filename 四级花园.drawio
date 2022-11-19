@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T14:41:48.680Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lDEkcj1DrL3SM6kfdVaX" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-19T15:32:59.908Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="tg3ySengbJzb65HDsKJT" version="20.5.3" type="github" pages="3">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="1831" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -962,9 +962,6 @@
         <mxCell id="luioHgQOrMevPf8hIm0l-112" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;strokeColor=#9673a6;fontFamily=Verdana;fontSize=4;fillColor=#e1d5e7;gradientDirection=radial;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="500" y="-140" width="120" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="luioHgQOrMevPf8hIm0l-113" value="32深度玄关" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;strokeColor=#9673a6;fontFamily=Verdana;fontSize=4;fillColor=#e1d5e7;gradientDirection=radial;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
-          <mxGeometry x="500" y="-159" width="80" height="29" as="geometry" />
-        </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-115" value="1000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="503" y="-130" width="60" height="10" as="geometry" />
         </mxCell>
@@ -1036,6 +1033,9 @@
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-138" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=#ffff88;gradientDirection=radial;strokeColor=#36393d;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="464" y="106" width="39" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="luioHgQOrMevPf8hIm0l-139" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;暖气&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=8;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="421" y="-184" width="10" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
