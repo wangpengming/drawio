@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-19T07:29:48.397Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="pU-G0COHZfyCATVLugyr" version="20.5.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-11-19T07:40:33.016Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Qb9msOl7UerqaLk-wj-g" version="20.5.3" type="github" pages="2">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="第 1 页">
     <mxGraphModel dx="1831" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -300,7 +300,7 @@
         <mxCell id="B9oa5t5BHLAPkjlWdVco-33" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
           <mxGeometry x="34" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B9oa5t5BHLAPkjlWdVco-34" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
+        <mxCell id="B9oa5t5BHLAPkjlWdVco-34" value="侧面带抽屉的床即可" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
           <mxGeometry x="160" y="120" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="B9oa5t5BHLAPkjlWdVco-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
@@ -318,7 +318,7 @@
         <mxCell id="B9oa5t5BHLAPkjlWdVco-38" value="3300" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
           <mxGeometry x="34" y="360" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="B9oa5t5BHLAPkjlWdVco-39" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
+        <mxCell id="B9oa5t5BHLAPkjlWdVco-39" value="箱体床，侧面大抽屉" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
           <mxGeometry x="249" y="300" width="161" height="120" as="geometry" />
         </mxCell>
         <mxCell id="B9oa5t5BHLAPkjlWdVco-40" value="床头灯带" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#76608a;fontColor=#ffffff;strokeColor=#432D57;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
@@ -382,16 +382,16 @@
           <mxGeometry x="161" y="300" width="50" height="130" as="geometry" />
         </mxCell>
         <mxCell id="iQrz-eH6Cf8OY8mzvkFa-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
-          <mxGeometry x="161" y="430" width="40" height="80" as="geometry" />
+          <mxGeometry x="161" y="430" width="49" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iQrz-eH6Cf8OY8mzvkFa-7" value="飘窗" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
-          <mxGeometry x="200" y="510" width="170" height="40" as="geometry" />
+          <mxGeometry x="210" y="510" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iQrz-eH6Cf8OY8mzvkFa-8" value="椅子" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=none;dashed=1;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
           <mxGeometry x="190" y="460" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iQrz-eH6Cf8OY8mzvkFa-9" value="顶天&lt;br&gt;书架" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#f5f5f5;gradientColor=#b3b3b3;strokeColor=#666666;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
-          <mxGeometry x="160" y="510" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="510" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="iQrz-eH6Cf8OY8mzvkFa-11" value="悬空柜桌结合" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="B9oa5t5BHLAPkjlWdVco-1">
           <mxGeometry x="309" y="250" width="61" height="30" as="geometry" />
