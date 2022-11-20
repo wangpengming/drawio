@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T01:56:05.209Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5IjZxs88DUlZwGoKpYVy" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-20T02:04:34.745Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BYHPV30MYoKq6GSGtHWI" version="20.5.3" type="github" pages="3">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2272" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -780,7 +780,7 @@
           <mxGeometry x="61" y="19" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-51" value="客餐厅不吊顶，做周边隐藏等待" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
-          <mxGeometry x="760" y="156" width="60" height="30" as="geometry" />
+          <mxGeometry x="760" y="234" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-52" value="窗帘盒" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#808080;gradientDirection=radial;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="161" y="540" width="209" height="10" as="geometry" />
@@ -789,7 +789,7 @@
           <mxGeometry x="150" y="37" width="10" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-55" value="悬空柜要灯带" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
-          <mxGeometry x="760" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="760" y="308" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-56" value="卡坐，40公分，坐垫5公分，背垫必须。" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=#fff2cc;gradientDirection=radial;gradientColor=#ffd966;strokeColor=#d6b656;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="590" y="-10" width="30" height="160" as="geometry" />
@@ -812,14 +812,11 @@
         <mxCell id="luioHgQOrMevPf8hIm0l-62" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="620" y="15" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="luioHgQOrMevPf8hIm0l-63" value="800" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
-          <mxGeometry x="800" y="66" width="30" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-66" value="" style="swimlane;horizontal=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=#ffff88;gradientDirection=radial;strokeColor=#36393d;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="464" y="1" width="39" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="luioHgQOrMevPf8hIm0l-70" value="入户左手边做通顶玄关，造出1.6米左右的玄关，玄关得有" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
-          <mxGeometry x="748" y="-136" width="60" height="30" as="geometry" />
+        <mxCell id="luioHgQOrMevPf8hIm0l-70" value="入户左手边做通顶玄关，造出1.6米左右的玄关，玄关得有顶有灯源。玄关柜深度要足够，隔板高度要考虑好，中间不能完全悬空，得有一部分通顶才能稳固吧？" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
+          <mxGeometry x="757" y="-249" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=none;gradientDirection=radial;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="274" y="-60" width="120" height="120" as="geometry" />
@@ -1013,7 +1010,7 @@
         <mxCell id="luioHgQOrMevPf8hIm0l-133" value="通顶" style="rounded=0;shadow=0;fillStyle=auto;strokeColor=#005700;fontFamily=Verdana;fontSize=8;fillColor=#008a00;gradientDirection=radial;fontColor=#ffffff;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="540" y="-370.5" width="23" height="20.5" as="geometry" />
         </mxCell>
-        <mxCell id="luioHgQOrMevPf8hIm0l-135" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=8;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
+        <mxCell id="luioHgQOrMevPf8hIm0l-135" value="冰箱突出太多不好看，想想怎么镶嵌？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=8;fontColor=#FF1726;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
           <mxGeometry x="640" y="-370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luioHgQOrMevPf8hIm0l-136" value="32深度玄关" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;strokeColor=#9673a6;fontFamily=Verdana;fontSize=4;fillColor=#e1d5e7;gradientDirection=radial;" parent="ykRewvr_7Si41wkY-nE_-1" vertex="1">
@@ -1033,6 +1030,12 @@
         </mxCell>
         <mxCell id="YM_4YutVQrvnLPfFjde5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=#7A7A7A;gradientDirection=radial;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
           <mxGeometry x="570" y="-360" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="YM_4YutVQrvnLPfFjde5-5" value="玄关后面做L型卡坐，卡坐上方不做吊柜，显得宽敞，卡做腿部，背部坡度，人体工程学，卡做可抬起储藏。卡做下方预留电源" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="756" y="2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YM_4YutVQrvnLPfFjde5-6" value="餐椅平时收起坐卡坐，留出走动空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="ykRewvr_7Si41wkY-nE_-1">
+          <mxGeometry x="760" y="153" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
