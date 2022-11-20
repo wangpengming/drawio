@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T03:45:45.645Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="TBziYSCUY3urv23cb5yS" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-20T05:34:07.411Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-a-iFZMC56F01Ep1oWO5" version="20.5.3" type="github" pages="4">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2272" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1501,9 +1501,6 @@
         <mxCell id="s_zcp96661NppgGl42r2-142" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=#d5e8d4;gradientDirection=radial;strokeColor=#82b366;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
           <mxGeometry x="451" y="-151" width="70" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="s_zcp96661NppgGl42r2-143" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=none;gradientDirection=radial;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
-          <mxGeometry x="1000" y="-330" width="120" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="s_zcp96661NppgGl42r2-144" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=#fff2cc;gradientDirection=radial;strokeColor=#d6b656;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
           <mxGeometry x="420" y="-360" width="190" height="140" as="geometry" />
         </mxCell>
@@ -1653,6 +1650,9 @@
         </mxCell>
         <mxCell id="s_zcp96661NppgGl42r2-185" value="餐椅平时收起坐卡坐，留出走动空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
           <mxGeometry x="760" y="153" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQSalS71MwHUGHMDy_XD-0" value="不要洗碗，消毒柜子，碗筷定期蒸/换即可" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
+          <mxGeometry x="772" y="-445" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
