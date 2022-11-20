@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T05:34:07.411Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-a-iFZMC56F01Ep1oWO5" version="20.5.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-20T08:33:56.067Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ad0xot-zP8HbuIgkEr9u" version="20.5.3" type="github" pages="4">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2272" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1041,7 +1041,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="主卧+客厅+卫生间" id="lArOCJ8HtbkCk_ZPlHog">
-    <mxGraphModel dx="2272" dy="1900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="s_zcp96661NppgGl42r2-0" />
         <mxCell id="s_zcp96661NppgGl42r2-1" parent="s_zcp96661NppgGl42r2-0" />
@@ -1625,7 +1625,7 @@
           <mxGeometry x="540" y="-370.5" width="23" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="s_zcp96661NppgGl42r2-177" value="冰箱突出太多不好看，想想怎么镶嵌？" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=8;fontColor=#FF1726;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
-          <mxGeometry x="640" y="-370" width="60" height="30" as="geometry" />
+          <mxGeometry x="640" y="-425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="s_zcp96661NppgGl42r2-178" value="32深度玄关" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;strokeColor=#9673a6;fontFamily=Verdana;fontSize=4;fillColor=#e1d5e7;gradientDirection=radial;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
           <mxGeometry x="500" y="-70" width="120" height="29" as="geometry" />
@@ -1651,8 +1651,14 @@
         <mxCell id="s_zcp96661NppgGl42r2-185" value="餐椅平时收起坐卡坐，留出走动空间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
           <mxGeometry x="760" y="153" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TQSalS71MwHUGHMDy_XD-0" value="不要洗碗，消毒柜子，碗筷定期蒸/换即可" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
-          <mxGeometry x="772" y="-445" width="80" height="30" as="geometry" />
+        <mxCell id="TQSalS71MwHUGHMDy_XD-0" value="不要洗碗，消毒柜子，碗筷定期蒸/换即可，&lt;br&gt;厨房单频空调后期加装，如果有需要" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
+          <mxGeometry x="746" y="-445" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQSalS71MwHUGHMDy_XD-1" value="饮水用台式恒温水壶，类似佳怡用的，可以移动，放玄关，厨房都可以，但是为了有冷热选择，还是得配一个饮水机，可以制冷和加热。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=8;fontColor=#FF1726;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
+          <mxGeometry x="840" y="-445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TQSalS71MwHUGHMDy_XD-2" value="厨房和小窗户的玻璃贴上单向膜，但只有在外部光线大于内部光线才有用，所以百叶窗不能少。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;fontColor=#000000;" vertex="1" parent="s_zcp96661NppgGl42r2-1">
+          <mxGeometry x="840" y="-279" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
