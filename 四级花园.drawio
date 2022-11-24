@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T03:58:41.678Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5WIyjPLZ8TJNmJNA_AKT" version="20.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-24T23:55:34.130Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="6OFjlu5hcFpKkoxecvya" version="20.5.3" type="github" pages="5">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2200" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1673,7 +1673,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="调整卧室3" id="9xBdCQUe4vZ4QozOPREG">
-    <mxGraphModel dx="2200" dy="1873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1781" dy="1633" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-0" />
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-1" parent="Ohc-E3w9BwjeZ_XGWJO9-0" />
@@ -1763,9 +1763,6 @@
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-27" value="2000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="60" y="190" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Verdana;fontSize=4;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" source="Ohc-E3w9BwjeZ_XGWJO9-29" target="Ohc-E3w9BwjeZ_XGWJO9-27" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-29" value="侧面带抽屉的床即可" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="160" y="120" width="120" height="160" as="geometry" />
@@ -2304,8 +2301,11 @@
         <mxCell id="MYXFECgeqxH1z4Lay64s-0" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;能看到柜子背面的地方，背板要特殊处理，不是刷，要么直接用见光板&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=8;rotation=0;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="-34" y="-475" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="3zx9JLnNf9ypfY0_vJ4f-0" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;卧室3的空调外机是个问题，整栋楼没有子西面挂外机的。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=8;rotation=0;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
+        <mxCell id="3zx9JLnNf9ypfY0_vJ4f-0" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;卧室3的空调外机是个问题，整栋楼没有子西面挂外机的。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=8;rotation=0;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="-42" y="-131" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Z8RwqhL7JTFZk7YQqFhD-0" value="洗衣机烘干机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
+          <mxGeometry x="290" y="69" width="49" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
