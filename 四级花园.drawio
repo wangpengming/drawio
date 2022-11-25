@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T09:32:24.462Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CYQEnUnH9IseiTGIN7Nq" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-25T11:32:33.454Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="29uenF3IF1H0qzY3wNy3" version="20.6.0" type="github" pages="5">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2200" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2328,7 +2328,7 @@
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-2" value="矮长条暖气在书桌下" style="rounded=0;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=9;rotation=0;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
           <mxGeometry x="235" y="-370" width="95" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="e5intPZcn-YMPQ6Nk0a6-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
+        <mxCell id="e5intPZcn-YMPQ6Nk0a6-3" value="衣柜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
           <mxGeometry x="370" y="-350" width="49.5" height="190" as="geometry" />
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fontSize=6;fillColor=#ffcd28;rotation=-180;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
