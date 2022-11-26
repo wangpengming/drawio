@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T03:55:44.944Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jyuQa5I50ypqxuyti42h" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-26T09:51:27.056Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KueFoQv6Z_dFNhWAmbZW" version="20.6.0" type="github" pages="5">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2200" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2329,10 +2329,10 @@
           <mxGeometry x="629" y="-370" width="95" height="14.5" as="geometry" />
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-3" value="衣柜" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
-          <mxGeometry x="764" y="-350" width="49.5" height="190" as="geometry" />
+          <mxGeometry x="764" y="-350" width="49.5" height="210" as="geometry" />
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-6" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fontSize=6;fillColor=#ffcd28;rotation=-180;strokeColor=#d79b00;gradientColor=#ffa500;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
-          <mxGeometry x="764" y="-161" width="49" height="42" as="geometry" />
+          <mxGeometry x="270" y="-402" width="49" height="42" as="geometry" />
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="555" y="-350" width="209" height="40" as="geometry" />
@@ -2341,7 +2341,7 @@
           <mxGeometry x="555" y="-119" width="140" height="38" as="geometry" />
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-13" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fontSize=6;fillColor=#ffcd28;rotation=0;strokeColor=#d79b00;gradientColor=#ffa500;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
-          <mxGeometry x="696" y="-120" width="38" height="39" as="geometry" />
+          <mxGeometry x="240" y="-364.5" width="38" height="39" as="geometry" />
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=6;fillColor=#dae8fc;gradientColor=#7ea6e0;strokeColor=#6c8ebf;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="555" y="-350" width="19" height="60" as="geometry" />
@@ -2351,6 +2351,9 @@
         </mxCell>
         <mxCell id="e5intPZcn-YMPQ6Nk0a6-17" value="椅子" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=none;dashed=1;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="708" y="-321" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jf9UXL4OCKATr6-X_ScT-1" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;北卧室床头，做吊柜，做挂衣区和叠放区，放床上用品。床头柜中间悬空，做上翻柜子，放部分叠放区。最下方做轨道或滚轮抽拉区，存放箱子或其他物品。背板和底板都不能少。&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#ffff88;strokeColor=#36393d;fontSize=8;rotation=0;" vertex="1" parent="Ohc-E3w9BwjeZ_XGWJO9-1">
+          <mxGeometry x="200" y="-319.19" width="140" height="129.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
