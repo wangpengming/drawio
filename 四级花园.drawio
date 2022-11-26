@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:09:25.985Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="za5xMabZcmz1xPgEFCfw" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:20:28.024Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kRZkFMul2QFS3CWOgkvE" version="20.6.0" type="github" pages="5">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2200" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -2080,7 +2080,7 @@
           <mxGeometry x="743" y="-113" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-127" value="餐边柜" style="rounded=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=12;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;horizontal=0;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
-          <mxGeometry x="794" y="40" width="20" height="80" as="geometry" />
+          <mxGeometry x="805" y="40" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-128" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=none;gradientDirection=radial;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="741" y="66" width="120" height="120" as="geometry" />
