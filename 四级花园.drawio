@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T10:20:28.024Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="kRZkFMul2QFS3CWOgkvE" version="20.6.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-11-26T10:42:28.104Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="68p1HOgikrVjjuk0LKGL" version="20.6.0" type="github" pages="5">
   <diagram id="uKy1NqKZVqmgJcSpkikJ" name="主卧初始设计">
     <mxGraphModel dx="2200" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1980,8 +1980,8 @@
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-96" value="可活动柜子，防晒" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#f5f5f5;gradientDirection=radial;gradientColor=#b3b3b3;strokeColor=#666666;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="873" y="480" width="40" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-97" value="提前考虑开窗对晾衣架和纱帘的影响。这样柜子和窗户之前要把窗帘盒预留好，就不要沙发旁边预留窗帘盒了，因为有隐形门和空调，还有暖气影响。" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;horizontal=1;whiteSpace=wrap;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
-          <mxGeometry x="1154" y="440" width="70" height="30" as="geometry" />
+        <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-97" value="阳台暂时不打柜子，作为休闲区域，可折叠跑步机，动感单车，休闲椅等休闲区域，不放柜子。所以阳台左右下方要预留插座" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=4;horizontal=1;whiteSpace=wrap;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
+          <mxGeometry x="1154" y="350" width="70" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-98" value="窗帘盒" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;fillStyle=auto;fontFamily=Verdana;fontSize=6;fillColor=#808080;gradientDirection=radial;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="874" y="540" width="240" height="10" as="geometry" />
@@ -2080,7 +2080,7 @@
           <mxGeometry x="743" y="-113" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-127" value="餐边柜" style="rounded=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=12;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;horizontal=0;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
-          <mxGeometry x="805" y="40" width="20" height="80" as="geometry" />
+          <mxGeometry x="801" y="40" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ohc-E3w9BwjeZ_XGWJO9-128" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;dashed=1;fillStyle=auto;fontFamily=Verdana;fontSize=4;fillColor=none;gradientDirection=radial;" parent="Ohc-E3w9BwjeZ_XGWJO9-1" vertex="1">
           <mxGeometry x="741" y="66" width="120" height="120" as="geometry" />
