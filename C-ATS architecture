@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T06:25:56.964Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="OLGhXDvjFIUTV97vh908" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T06:31:37.303Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="oDQpHDcpLcJG_-dNmPJ8" version="21.0.6" type="github">
   <diagram name="partial devices" id="X9yO24gzEHe_ye8r9rqV">
-    <mxGraphModel dx="778" dy="443" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="778" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,10 +67,10 @@
         <mxCell id="SZhL1JYpOgLodiBwzemH-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="SZhL1JYpOgLodiBwzemH-5" target="eXM5zQuS9s-b7uz9iyMk-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SZhL1JYpOgLodiBwzemH-5" value="Rad Moon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SZhL1JYpOgLodiBwzemH-5" value="PUH" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="250" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SZhL1JYpOgLodiBwzemH-6" value="Neo Fire" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SZhL1JYpOgLodiBwzemH-6" value="USB Relay" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="438" y="250" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
